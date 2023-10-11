@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bookshelf App</string>
+    <string name="bookshelf_app">Bookshelf App</string>
+    <string name="loading">Loading</string>
+    <string name="failed_to_load">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="book_title">%s</string>
+    <string name="no_description">No description</string>
+    <string name="book_authors_date">By %s, %s</string>
+</resources>
